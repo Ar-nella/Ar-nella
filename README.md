@@ -1,5 +1,5 @@
  <!-- ## Hi there 👋 -->
-<h1 align="center">Hi there, I'm Ar-nella </h1>
+<h1 align="center">Hi there, I'm Arnella AGBODJALOU </h1>
 <p align="center">
   <em>Aspirante Data Scientist · Data Analyst · Étudiante en Systèmes d'Information & Réseaux Informatiques</em>
 </p>
@@ -16,6 +16,41 @@ Je travaille notamment sur des projets de scraping, d'analyse de données et de 
 💡 Interests: Web scraping · Data storytelling · Real-time data processing
 📍 Based in: Bénin 🇧🇯
 📫 Reach me: www.linkedin.com/in/arnella-agbodjalou
+
+🚀 Featured Projects
+📊 Analyse du Marché de l'Emploi au Bénin
+
+What skills does the Beninese job market really demand?
+
+Collecte et analyse d'offres d'emploi issues de plusieurs plateformes web béninoises. Ce projet identifie les compétences les plus demandées et analyse les tendances du marché de l'emploi local.
+Python Web Scraping SQL Data Analysis Pandas Matplotlib
+
+🧠 Real-Time Sentiment Analysis with Kafka
+
+Streaming text data, detecting opinions in real time.
+
+Pipeline de traitement de données en temps réel utilisant Apache Kafka pour ingérer des flux de texte, puis appliquer une analyse de sentiments (positif / négatif / neutre) avec des modèles NLP.
+Python Apache Kafka NLP Streaming Real-time Processing
+
+📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ar-nella&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-nella&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ar-nella&theme=tokyonight&hide_border=true" />
+</p>
+
+🤝 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/TONPROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:TON@EMAIL.COM"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Ar-nella"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <em>"Data is the new oil — but only if you know how to refine it." 🛢️✨</em>
+</p>
 
 <!-- <p align="center">
   <a href="https://github.com/Ar-nella">
